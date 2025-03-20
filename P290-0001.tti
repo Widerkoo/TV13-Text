@@ -3,6 +3,7 @@ PS,8180
 PN,29001
 SC,0001
 RE,1
+CT,8,T
 OL,1,T////////////////////////////////////// 
 OL,2,             BMMOTORSPORT               
 OL,4,T|||||||||||||||||||||||||||||||||||||| 
@@ -13,4 +14,21 @@ OL,17,CPo_ad^ MS:
 OL,18, Formule 1      C   296                 
 OL,19, WRC            C   297                 
 OL,20, MotoGP         C   298                 
-OL,21, Jin` Motorsporty  C299                 
+OL,21, Jin` Motorsporty  C299  
+DE
+PS,8180
+PN,29002
+SC,0002
+RE,1
+CT,8,T
+OL,1,T////////////////////////////////////// 
+OL,2,            MBMOTORSPORTOW              
+OL,4,T|||||||||||||||||||||||||||||||||||||| 
+OL,6,BFormula 1 / GP Cinsky:                 
+OL,7,C291 -GMS pogradsza a} wikeda w         
+OL,8,       \anghaji                         
+OL,17,CPorada w MS:                           
+OL,18, Formula 1      C   296                 
+OL,19, WRC            C   297                 
+OL,20, MotoGP         C   298                 
+OL,21, Ine Motorsportow  C299              
