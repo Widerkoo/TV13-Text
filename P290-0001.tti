@@ -3,14 +3,32 @@ PS,8180
 PN,29001
 SC,0001
 RE,1
+CT,8,T
 OL,1,T////////////////////////////////////// 
 OL,2,             BMMOTORSPORT               
 OL,4,T|||||||||||||||||||||||||||||||||||||| 
-OL,6,BFormule 1 / GP ^ny:                   
-OL,7,C291 -GMS pokra@uje o v^kendu v         
-OL,8,       anghaji                         
-OL,17,CPo_ad^ MS:                             
+OL,6,BFormule 1 / GP Číny:                   
+OL,7,C291 -GMS pokračuje o víkendu v         
+OL,8,       Šanghaji                         
+OL,17,CPořadí MS:                             
 OL,18, Formule 1      C   296                 
 OL,19, WRC            C   297                 
 OL,20, MotoGP         C   298                 
-OL,21, Jin` Motorsporty  C299                 
+OL,21, Jiné Motorsporty  C299 
+DE,
+PS,8180
+PN,29002
+SC,0002
+RE,1
+CT,8,T
+OL,1,T////////////////////////////////////// 
+OL,2,            MBMOTORSPORTŌW              
+OL,4,T|||||||||||||||||||||||||||||||||||||| 
+OL,6,BFormula 1 / GP Ćįnsky:                 
+OL,7,C291 -GMS pogradsza ał wīkeda w         
+OL,8,       Šanghaj                         
+OL,17,CPorāda w MS:                           
+OL,18, Formula 1      C   296                 
+OL,19, WRC            C   297                 
+OL,20, MotoGP         C   298                 
+OL,21, Inē Motorsportōw  C299                                 
