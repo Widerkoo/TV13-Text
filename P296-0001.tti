@@ -27,7 +27,7 @@ OL,22,      Alonso - Span|lsko  AM   0 Bod$
 OL,24,T 
 DE,
 PS,8180
-PN,29601
+PN,29602
 SC,0002
 RE,1
 CT,8,T
@@ -57,10 +57,10 @@ CT,8,T
 OL,1,T////////////////////////////////////// 
 OL,2,            MB FORMULA 1                
 OL,4,T|||||||||||||||||||||||||||||||||||||| 
-OL,6,      Norris - WB       McL.  25 Bodsz  
-OL,7,  Verstappen - Ho}das     RB  18 Bodsz  
-OL,8,     Russell - WB       Mer.  15 Bodsz  
-OL,9,   Antonelli - Talja¤   Mer.  12 Bodsz  
+OL,6,      Norris - WB       McL.   25 Bodsz  
+OL,7,  Verstappen - Ho}das     RB   18 Bodsz  
+OL,8,     Russell - WB       Mer.   15 Bodsz  
+OL,9,   Antonelli - Talja$   Mer.   12 Bodsz  
 OL,10,       Albon - Thajsz   Wil.  10 Bodsz  
 OL,11,      Stroll - Kanadi     AM   8 Bodsz  
 OL,12,  Hulkenberg - Gemnaja  Sau.   6 Bodsz  
@@ -68,12 +68,12 @@ OL,13,     Leclerc - Mancasz  Fer.   4 Bodsz
 OL,14,     Piastri - Austra}a McL.   2 Bodsz  
 OL,15,    Hamilton - WB       Fer.   1 Bodsz  
 OL,16,       Gasly - Fransz   Alp.   0 Bodsz  
-OL,17,     Tsunoda - Chalpa¤  RasB   0 Bodsz  
+OL,17,     Tsunoda - Chalpa$  RasB   0 Bodsz  
 OL,18,        Ocon - Fransz   Haas   0 Bodsz  
 OL,19,     Bearman - WB       Haas   0 Bodsz  
 OL,20,      Lawson - Nowy Zelad RB   0 Bodsz  
-OL,21,   Bortoleto - Bra}szka Sau.    . 0 Bodsz  
-OL,22,      Alonso - Espa¤      AM   0 Bodsz  
+OL,21,   Bortoleto - Bra}szka Sau.   0 Bodsz  
+OL,22,      Alonso - Espa$      AM   0 Bodsz  
 OL,24,T 
 DE,
 PS,8000
@@ -84,7 +84,7 @@ CT,8,T
 OL,1,T////////////////////////////////////// 
 OL,2,            MB FORMULA 1                
 OL,4,T|||||||||||||||||||||||||||||||||||||| 
-OL,6,       Sainz - Espa¤    Wil.   0 Bodsz  
+OL,6,       Sainz - Espa$    Wil.   0 Bodsz  
 OL,7,      Doohan - Austra}a Alp.   0 Bodsz  
 OL,8,      Hadjar - Fransz   RasB   0 Bodsz  
 OL,12,     McLaren Mercedes         27 Bodsz  
