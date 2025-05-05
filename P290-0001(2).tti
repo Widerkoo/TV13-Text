@@ -1,0 +1,35 @@
+DE,
+PS,8180
+PN,29001
+SC,0001
+RE,1
+OL,1,T////////////////////////////////////// 
+OL,2,             BMMOTORSPORT               
+OL,4,T|||||||||||||||||||||||||||||||||||||| 
+OL,6,BFormule 1 / GP Miami:                  
+OL,7,C291 -GOscar Piastri vyhr{l v Miami     
+OL,9,BMotokros / MS:                         
+OL,10,C292 -GMikula dvan{ct] ve GP Portugal.  
+OL,17,CPoradi MS:                             
+OL,18, Formule 1      C   296                 
+OL,19, WRC            C   297                 
+OL,20, MotoGP         C   298                 
+OL,21, Jine Motorsporty  C299                 
+DE,
+PS,8000
+PN,29002
+SC,0002
+RE,1
+OL,1,T////////////////////////////////////// 
+OL,2,            MBMOTORSPORTOW              
+OL,4,T|||||||||||||||||||||||||||||||||||||| 
+OL,6,BFormula 1 / GP Miami:                  
+OL,7,C291 -GOscar Piastri wygral w Miami     
+OL,9,BMotokros / MS                          
+OL,10,C292 -GMikula ledendos-dwas pa GP       
+OL,11,       Portus                           
+OL,17,CPorada w MS:                           
+OL,18, Formula 1      C   296                 
+OL,19, WRC            C   297                 
+OL,20, MotoGP         C   298                 
+OL,21, Ine Motorsportow  C299                 
